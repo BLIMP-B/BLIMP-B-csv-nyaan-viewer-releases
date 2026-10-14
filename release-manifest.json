@@ -1,0 +1,32 @@
+{
+  "version": "1.5.31",
+  "tag": "v1.5.31",
+  "sourceCommit": "be87ad8398d9d266e6ed4217f79b0260a7f9be41",
+  "assets": [
+    {
+      "name": "CSV-nyaan-Viewer-1.5.31-source.zip",
+      "size": 2897435,
+      "sha256": "0c0e3b43d51c2892cc74ae9cae055a8577284e674cd15cfdefdd414218821f7d"
+    },
+    {
+      "name": "CSV-nyaan-Viewer-1.5.31-Windows-x64.zip",
+      "size": 166986473,
+      "sha256": "98d7b03c500d9c36e331ddfd8d13e81f4b7ce346101cfe9e4961ea826b4cdadc"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 371,
+      "sha256": "314fd16ebb7b7530527eac3e82621aa3534ed973b1c981433ce465a6e4b6275a"
+    },
+    {
+      "name": "SIGNATURE.json",
+      "size": 639,
+      "sha256": "3efcf4e66fad58a29ecbfeba4b1f21146cc49cc02b4f4f73199cf3ca7b5046b4"
+    },
+    {
+      "name": "test-signing.cer",
+      "size": 1038,
+      "sha256": "eaca5c9dd3b9a0c7a3a85a608991bcae082c9de3b6e78254efab4b162c989916"
+    }
+  ]
+}
