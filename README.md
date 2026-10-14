@@ -18,9 +18,7 @@ Windows 10 / 11（x64）向けのCSV・Excel・Markdown・テキストの閲覧�
 | --- | --- |
 | `CSV-nyaan-Viewer-1.5.31-Windows-x64.zip` | Windows用アプリ |
 | `CSV-nyaan-Viewer-1.5.31-source.zip` | このバージョンのソース一式 |
-| `SHA256SUMS.txt` | 配布ファイルのチェックサム |
-| `SIGNATURE.json` | 実行ファイルの署名検証情報 |
-| `test-signing.cer` | 検証用自己署名の公開証明書 |
+
 
 配布ファイルは検証済みのv1.5.31からそのままコピーし、SHA-256の一致を確認します。検証用の自己署名版です。証明書と署名の確認方法は [Windowsコード署名](docs/code-signing.md) を参照してください。
 
